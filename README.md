@@ -1,1 +1,2 @@
 # odoo
+Trial git session
